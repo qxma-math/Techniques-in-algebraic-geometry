@@ -10,6 +10,6 @@ Here is a collection of notes on various techniques in algebraic geometry. Initi
 
 [004]: Coniveau. The coniveau filtration gives a filtration on Chow group, interpolating between algebraica and homological equivalence. Schreieder characterized codim-i cycles having coniveau 1 by liftibility of the Griffith's Abel-Jacobi invariant.
 
-[005]: Borel-Moore cohomologies:
+[005]: Borel-Moore cohomologies: We review classical definitions from topology and that used in refined unramified cohomology theory.
 
 [006]: The warm-up example. We identify the torsion cokernel of cl^2 with Quotient of unramified cohomology groups.
