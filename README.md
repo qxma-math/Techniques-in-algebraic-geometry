@@ -13,3 +13,5 @@ Here is a collection of notes on various techniques in algebraic geometry. Initi
 [005]: Borel-Moore cohomologies: We review classical definitions from topology and that used in refined unramified cohomology theory.
 
 [006]: The warm-up example. We identify the torsion cokernel of cl^2 with Quotient of unramified cohomology groups.
+
+[007]: Refined unramified cohomology.
